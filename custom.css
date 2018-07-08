@@ -1,1 +1,228 @@
+<div id="paneLeft" style="height: 613px; width: 351px; background: black; outline: none;"><div class="detailContainer swiper-container swiper-container-horizontal" style="display: none; width: 351px; height: 613px; z-index: 99;">
+	<button type="button" class="detailClose ion-android-close" style=""></button>
+	<div class="detail-btn-container detail-btn-left">
+		<div class="detail-btn ion-chevron-left" style="outline: none;"></div>
+	</div>
+	<div class="detail-btn-container detail-btn-right">
+		<div class="detail-btn ion-chevron-right" style="outline: none;"></div>
+	</div>
+	<div class="detailView swiper-wrapper" id="detailView0" style="transition-duration: 0ms;">
 
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="swiper-slide swiper-slide-active" style="height: 608px;">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Shoreline Butte</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy swiper-lazy-loaded" alt="" src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DRathfelder%20379__1531071299116__w1500.jpg" style="max-width: 351px; max-height: 367px;">
+			
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Shoreline Butte</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide swiper-slide-next">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Badwater Basin</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy swiper-lazy-loaded" alt="" src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0202%202__1531070482993__w1500.jpg" style="max-width: 351px; max-height: 367px;">
+			
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Badwater Basin</p><p>DianaK</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Mosaic Canyon</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0434__1531070576085__w1500.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Mosaic Canyon</p><p>DianaK</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered"> </div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0331__1531070648714__w1500.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p> </p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Devil's Golf Course</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0281__1531070773999__w1500.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Devil's Golf Course</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Artist's Drive</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0308%202__1531070838292__w1500.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Artist's Drive</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Sand Dunes</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0352__1531070918057__w1500.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Sand Dunes</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Ubehebe Crater</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DRathfelder%2031__1531071248596__w1500.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Ubehebe Crater</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">The Racetrack</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0877__1531071168533__w1500.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>The Racetrack</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Zebriski Point</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0188__1531070943452__w1500.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Zebriski Point</p><p>DianaK</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Titus Canyon</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/1341458283262__1531071134483__w536.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Titus Canyon</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Death Valley Buttes</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/1341458355741__1531071104841__w536.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Death Valley Buttes</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Golden Canyon</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0180__1531070971011__w1500.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Golden Canyon</p></div>
+		<div class="website"></div>
+	</div>
+</div><div class="swiper-slide">
+	<div class="detailHeader" style="border-top-color: rgb(55, 146, 30);">
+		<div class="detailFeatureNum" style="display: none;"></div>
+		<div class="detailFeatureTitle notNumbered">Harmony Borax Works</div>
+	</div>
+	<div class="detailTextContainer" style="height: 573px;">
+		<div class="detailPictureDiv">
+			<img class="swiper-lazy" data-src="https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0335%202__1531071039132__w1500.jpg" alt="" style="max-width: 351px; max-height: 367px;">
+			<div class="swiper-lazy-preloader"></div>
+		</div>
+		
+		<div class="description detailFeatureDesc"><p>Harmony Borax Works</p></div>
+		<div class="website"></div>
+	</div>
+</div></div>
+</div>
+
+	<ul id="myList" class="tilelist" style="height: 582px;top: 28px;width: 352px;/* outline: none; */background: black;"><li tabindex="0" id="item1" style="display: block; background: black;"><div class="footer"><div class="blurb unNumBlurb">Shoreline Butte</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DRathfelder%20379__1531071299116__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item2" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Badwater Basin</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0202%202__1531070482993__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item3" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Mosaic Canyon</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0434__1531070576085__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item4" style="display: block;"><div class="footer"><div class="blurb unNumBlurb"> </div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0331__1531070648714__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item5" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Devil's Golf Course</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0281__1531070773999__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item6" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Artist's Drive</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0308%202__1531070838292__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item7" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Sand Dunes</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0352__1531070918057__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item8" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Ubehebe Crater</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DRathfelder%2031__1531071248596__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item9" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">The Racetrack</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0877__1531071168533__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item10" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Zebriski Point</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0188__1531070943452__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item11" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Titus Canyon</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/1341458283262__1531071134483__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item12" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Death Valley Buttes</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/1341458355741__1531071104841__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item13" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Golden Canyon</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0180__1531070971011__thumb.jpg&quot;);"></div></li><li tabindex="0" id="item14" style="display: block;"><div class="footer"><div class="blurb unNumBlurb">Harmony Borax Works</div></div><div class="tileImage" alt="" style="background-image: url(&quot;https://www.arcgis.com/sharing/rest/content/items/79dc143235d14c1dac22ebb84bc9586f/resources/DSC_0335%202__1531071039132__thumb.jpg&quot;);"></div></li></ul>
+	<div class="noFeature" style="width: 645px; display: none;">
+		<span class="noFeatureText" style="margin-left: 20px;">
+			No places are in this area.  Zoom out or click the Home button to see places.
+		</span>
+	</div>
+</div>
